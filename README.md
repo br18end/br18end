@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 👋
+
+- My name is Brenda C.
+- I'm Software Engineer with experience in the industry since 2016. driven by a deep passion for technology and continuous learning. I thrive on solving complex problems, staying current with emerging tools and frameworks, and building scalable, efficient solutions that make a difference.
+
+- "Work hard in silence and let success make the noise"
 
 <!--
 **br18end/br18end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
